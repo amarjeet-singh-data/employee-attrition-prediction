@@ -31,7 +31,9 @@ Key drivers of attrition were also identified to provide actionable insights for
 
 **Key Insights:**  
 - Lower satisfaction levels and extremely high/low working hours were strong indicators of attrition.  
-- Employees with very high evaluation scores but excessive working hours showed increased likelihood of leaving (possible burnout).  
+- Employees with very high evaluation scores but excessive working hours showed increased likelihood of leaving (possible burnout).  <img width="1912" height="977" alt="image" src="https://github.com/user-attachments/assets/8cd54a14-1198-4251-980a-46f5ab578961" />
+
+
 - Lack of promotion over 5 years correlated with higher attrition.
 
 ### 📊 Model Performance – **Best Model: XGBoost Classifier**
